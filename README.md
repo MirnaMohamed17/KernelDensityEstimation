@@ -1,2 +1,1 @@
-# KernelDensityEstimation
-Final Project
+# NonParametricDensityEstimation
